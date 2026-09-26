@@ -15,7 +15,6 @@ The topology connects two university campuses situated 20 miles apart via core r
   * **Faculty of Health & Sciences:** Staff offices and student labs segregated across separate floors.
 * **External Cloud Services:** Hosted Email Server connected via static routing.
 
----
 
 ## Key Technical Features
 
@@ -24,7 +23,3 @@ The topology connects two university campuses situated 20 miles apart via core r
 * **Static Routing:** Established for external cloud mail server connectivity.
 * **Router-Based DHCP:** Automated dynamic IP address assignment for all Building A administrative devices.
 * **Switching & Layer 2 Security:** VLAN trunking, access ports, and essential switch port security applied to access layer switches.
-
----
-
-## 📁 Repository Structure
